@@ -52,3 +52,7 @@ body {
         color: #000000;
         font-family: 'Dosis', cursive;
     }
+
+  .comment {
+    margin: 20px 0px 20px 20px;
+  }
